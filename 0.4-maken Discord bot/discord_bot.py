@@ -27,5 +27,5 @@ async def memes(ctx):
 
 
 
-client.run("MTAyNzQ4MzMxMjUxNzgyMDQxNg.GeczYU.Ck0gKIU3ERMLg7KQmbPZPf6Y6RJT2Oh3AYQO6k")
+client.run("....")
 
